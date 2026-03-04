@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Shubham Thakare | Full Stack Developer<br>I am a dynamic Java Full Stack Developer based in Pune, India, with over 5 years of experience in designing, developing, and maintaining robust web applications. My expertise lies in building scalable systems using Java, Spring Boot, and ReactJS, with a strong focus on optimizing performance and enhancing user experience.<br>Beyond core development, I am deeply interested in the evolving landscape of Artificial Intelligence, specifically in fine-tuning, RAG (Retrieval-Augmented Generation), and Agentic AI.<br>🚀 Technical Skills<br> * Backend: Java, Spring Boot, Microservices, Spring Data, RESTful APIs<br> * Frontend: ReactJS, Angular, State Management, Routing<br> * Data & Messaging: SQL (Optimization & Indexing), Kafka<br> * Cloud & DevOps: AWS, Jenkins, GitLab CI/CD, Version Control<br> * Security & Tools: RBAC, SSO, Snyk (XSS Remediation), Swagger, ELK/Splunk<br>🛠️ Professional Experience<br>Full Stack Developer<br>I have nearly 5.3 years of total experience, including 4.9 years of full-time work and a 6-month internship.<br> * IBM (Jan 2023 – March 2026): Focused on hardening RESTful API security, orchestrating AWS deployments, and developing high-impact Java/ReactJS POCs.<br>   * Key Projects: DNC/DNE Registry (Truist Bank), Goldboard (Hertz Rentals), and Premier (AT&T).<br> * Capgemini (June 2021 – Jan 2023): Worked on the Helios project (SCOR Reinsurance), refactoring legacy code into scalable microservices and automating CI/CD cycles.<br> * Litsbros Pvt. Ltd. (Internship): Contributed to full-stack academic projects and integrated payment gateways like Instamojo.<br>🎓 Education & Background<br> * Master of Computer Applications (MCA) | Sant Gadge Baba Amravati University<br> * Bachelor of Computer Applications (BCA) | HVP Mandals Degree College of Physical Education<br>⚡ Fun Facts<br> * When I'm not coding, you can find me facing challenges in Sekiro.<br> * I make a mean Jackfruit Biryani.<br>📫 How to reach me: thakare607@gmail.com | theshubhamthakare.com<br>Would you like me to generate a personalized README header image to go with this profile?<br>
 
-<!--
-**bestshubhamever/bestshubhamever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Theshubhamthakare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubhamthakarecode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakare607@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bestshubhamever&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bestshubhamever&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestshubhamever&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Bestshubhamever&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
